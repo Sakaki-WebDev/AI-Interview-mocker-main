@@ -38,7 +38,7 @@ function Header() {
           </li>
         </Link>
 
-        <Link href={'#'}>
+        <Link href={'/dashboard/upgrade'}>
           <li
             className={`hover:text-primary hover:font-bold transition-all
             cursor-pointer
