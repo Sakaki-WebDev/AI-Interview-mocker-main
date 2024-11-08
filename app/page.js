@@ -31,7 +31,7 @@ export default function Home() {
             </svg>
           </a>
           <h1 className='mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white'>
-            Welcome to Intervu
+            Welcome to Inter-u
           </h1>
           <p className='mb-4 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400'>
             Your interview, reimagined.
@@ -95,7 +95,7 @@ export default function Home() {
             <span className='ml-5 font-semibold text-gray-400 uppercase'>
               Feel free to check us out via the links below
             </span>
-            <div className='flex flex-wrap justify-center items-center mt-20 text-gray-500 sm:justify-between'>
+            <div className=' justify-center items-center mt-20 text-gray-500 sm:justify-between grid grid-flow-col'>
               <a
                 href='https://github.com/Sakaki-WebDev'
                 target='_blank'

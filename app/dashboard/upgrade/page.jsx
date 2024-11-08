@@ -8,14 +8,14 @@ function Upgrade() {
     <div className='p-10'>
       <h2 className='font-bold text-3xl text-center'>Upgrade Today</h2>
 
-      <h2 className=' bg-purple-200 p-6 mt-10 text-center'>
+      <h2 className=' bg-purple-200 rounded-xl p-6 mt-10 text-center'>
         {' '}
         Unfortunately, we are still working on adding member benefits. For now
         the app will remain free version only
       </h2>
 
-      <h2 className='bg-yellow-100 p-10 mt-16 text-center  text-gray-500'>
-        <strong className='text-yellow-800'>
+      <h2 className=' p-10 mt-16 text-center  text-gray-500'>
+        <strong className='text-black'>
           BUT DO NOT FEAR once its ready, user can upgrade to monthly plan to
           access the ability to create unlimited interviews, other benefits and
           more...
